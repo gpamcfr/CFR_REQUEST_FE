@@ -1,0 +1,18 @@
+D:\Proyectos CFR\OCULAB FE\Request_FE\UBL\bin\Debug\UBL.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\UBL\bin\Debug\UBL.pdb
+D:\Proyectos CFR\OCULAB FE\Request_FE\UBL\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\UBL\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos CFR\OCULAB FE\Request_FE\UBL\obj\Debug\UBL.csproj.AssemblyReference.cache
+D:\Proyectos CFR\OCULAB FE\Request_FE\UBL\obj\Debug\UBL.csproj.CoreCompileInputs.cache
+D:\Proyectos CFR\OCULAB FE\Request_FE\UBL\obj\Debug\UBL.csproj.CopyComplete
+D:\Proyectos CFR\OCULAB FE\Request_FE\UBL\obj\Debug\UBL.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\UBL\obj\Debug\UBL.pdb
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\UBL\bin\Debug\UBL.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\UBL\bin\Debug\UBL.pdb
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\UBL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\UBL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\UBL\obj\Debug\UBL.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\UBL\obj\Debug\UBL.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\UBL\obj\Debug\UBL.csproj.CopyComplete
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\UBL\obj\Debug\UBL.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\UBL\obj\Debug\UBL.pdb

@@ -1,0 +1,12 @@
+D:\Proyectos CFR\OCULAB FE\Request_FE\DAL\bin\Debug\DAL.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\DAL\bin\Debug\DAL.pdb
+D:\Proyectos CFR\OCULAB FE\Request_FE\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Proyectos CFR\OCULAB FE\Request_FE\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Proyectos CFR\OCULAB FE\Request_FE\DAL\obj\Debug\DAL.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\DAL\bin\Debug\DAL.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\DAL\obj\Debug\DAL.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\DAL\obj\Debug\DAL.pdb

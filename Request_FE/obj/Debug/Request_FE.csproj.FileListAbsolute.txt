@@ -1,0 +1,83 @@
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\Logs\a.txt
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\log4net.config
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\Request_FE.exe.config
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\Request_FE.exe
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\Request_FE.pdb
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\BL.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\DAL.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\log4net.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\UBL.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\RestSharp.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\BL.pdb
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\BL.dll.config
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\DAL.pdb
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\UBL.pdb
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\log4net.pdb
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\log4net.xml
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\RestSharp.xml
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\obj\Debug\Request_FE.csproj.AssemblyReference.cache
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\obj\Debug\Request_FE.Service1.resources
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\obj\Debug\Request_FE.csproj.GenerateResource.cache
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\obj\Debug\Request_FE.csproj.CoreCompileInputs.cache
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\obj\Debug\Request_FE.csproj.CopyComplete
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\obj\Debug\Request_FE.exe
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\obj\Debug\Request_FE.pdb
+D:\Proyectos CFR\OCULAB FE\Request_FE\Request_FE\bin\Debug\Config.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Logs\a.txt
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\log4net.config
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Request_FE.exe.config
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Request_FE.exe
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Request_FE.pdb
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\BL.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\DAL.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\log4net.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\UBL.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\RestSharp.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\BL.pdb
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\BL.dll.config
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\DAL.pdb
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\UBL.pdb
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\log4net.pdb
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\log4net.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\RestSharp.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\obj\Debug\Request_FE.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\obj\Debug\Request_FE.Service1.resources
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\obj\Debug\Request_FE.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\obj\Debug\Request_FE.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\obj\Debug\Request_FE.csproj.CopyComplete
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\obj\Debug\Request_FE.exe
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\obj\Debug\Request_FE.pdb
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\obj\Debug\Request_FE.ProjectInstaller.resources
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\Config.xml
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\Logs\a.txt
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\log4net.config
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\Request_FE.exe.config
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\Request_FE.exe
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\Request_FE.pdb
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\BL.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\DAL.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\log4net.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\UBL.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\RestSharp.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\BL.pdb
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\BL.dll.config
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\DAL.pdb
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\UBL.pdb
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\log4net.pdb
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\log4net.xml
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\RestSharp.xml
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\obj\Debug\Request_FE.csproj.AssemblyReference.cache
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\obj\Debug\Request_FE.ProjectInstaller.resources
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\obj\Debug\Request_FE.Service1.resources
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\obj\Debug\Request_FE.csproj.GenerateResource.cache
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\obj\Debug\Request_FE.csproj.CoreCompileInputs.cache
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\obj\Debug\Request_FE.csproj.CopyComplete
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\obj\Debug\Request_FE.exe
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\Request_FE\obj\Debug\Request_FE.pdb

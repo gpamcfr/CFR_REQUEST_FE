@@ -1,0 +1,9 @@
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\UBL\bin\x64\Release\UBL.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\UBL\bin\x64\Release\UBL.pdb
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\UBL\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\UBL\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\UBL\obj\x64\Release\UBL.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\UBL\obj\x64\Release\UBL.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\UBL\obj\x64\Release\UBL.csproj.CopyComplete
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\UBL\obj\x64\Release\UBL.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\UBL\obj\x64\Release\UBL.pdb

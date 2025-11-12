@@ -1,0 +1,738 @@
+2025-10-28 00:00:22,159 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:00:22,160 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:00:22,161 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:00:22,161 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:00:22,162 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:00:22,413 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:00:22,414 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:00:52,165 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:00:52,165 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:00:52,166 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:00:52,166 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:00:52,166 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:00:52,392 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:00:52,393 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:01:22,171 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:01:22,172 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:01:22,172 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:01:22,172 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:01:22,173 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:01:22,382 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:01:22,383 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:01:52,175 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:01:52,176 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:01:52,176 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:01:52,177 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:01:52,177 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:01:52,403 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:01:52,404 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:02:22,185 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:02:22,186 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:02:22,187 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:02:22,187 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:02:22,187 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:02:22,406 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:02:22,406 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:02:52,191 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:02:52,191 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:02:52,192 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:02:52,192 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:02:52,192 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:02:52,431 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:02:52,432 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:03:22,197 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:03:22,198 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:03:22,199 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:03:22,199 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:03:22,199 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:03:22,418 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:03:22,419 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:03:52,203 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:03:52,204 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:03:52,204 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:03:52,204 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:03:52,204 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:03:52,445 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:03:52,446 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:04:22,211 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:04:22,212 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:04:22,212 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:04:22,212 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:04:22,213 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:04:22,453 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:04:22,454 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:04:52,217 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:04:52,218 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:04:52,219 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:04:52,219 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:04:52,219 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:04:52,442 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:04:52,443 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:05:22,223 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:05:22,224 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:05:22,224 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:05:22,224 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:05:22,224 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:05:22,439 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:05:22,439 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:05:52,230 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:05:52,231 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:05:52,231 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:05:52,231 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:05:52,232 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:05:52,443 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:05:52,444 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:06:22,235 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:06:22,236 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:06:22,236 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:06:22,236 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:06:22,237 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:06:22,471 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:06:22,471 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:06:52,244 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:06:52,245 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:06:52,245 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:06:52,245 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:06:52,245 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:06:52,454 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:06:52,454 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:07:22,248 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:07:22,249 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:07:22,249 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:07:22,249 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:07:22,249 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:07:22,464 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:07:22,464 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:07:52,257 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:07:52,258 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:07:52,258 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:07:52,258 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:07:52,258 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:07:52,494 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:07:52,495 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:08:22,264 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:08:22,265 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:08:22,265 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:08:22,265 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:08:22,266 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:08:22,453 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:08:22,454 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:08:52,271 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:08:52,272 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:08:52,272 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:08:52,276 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:08:52,276 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:08:52,507 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:08:52,507 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:09:22,278 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:09:22,279 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:09:22,280 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:09:22,280 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:09:22,280 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:09:22,493 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:09:22,493 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:09:52,285 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:09:52,286 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:09:52,287 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:09:52,287 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:09:52,287 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:09:52,530 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:09:52,531 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:10:22,291 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:10:22,292 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:10:22,292 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:10:22,292 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:10:22,293 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:10:22,539 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:10:22,540 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:10:52,298 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:10:52,299 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:10:52,299 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:10:52,300 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:10:52,300 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:10:52,529 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:10:52,530 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:11:22,305 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:11:22,306 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:11:22,306 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:11:22,306 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:11:22,307 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:11:22,553 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:11:22,554 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:11:52,310 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:11:52,311 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:11:52,312 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:11:52,312 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:11:52,312 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:11:52,530 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:11:52,531 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:12:22,319 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:12:22,319 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:12:22,320 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:12:22,320 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:12:22,320 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:12:22,557 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:12:22,558 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:12:52,326 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:12:52,327 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:12:52,327 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:12:52,327 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:12:52,327 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:12:52,511 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:12:52,512 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:13:22,332 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:13:22,333 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:13:22,333 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:13:22,333 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:13:22,333 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:13:22,574 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:13:22,575 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:13:52,339 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:13:52,339 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:13:52,340 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:13:52,340 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:13:52,340 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:13:52,571 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:13:52,572 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:14:22,345 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:14:22,346 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:14:22,347 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:14:22,347 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:14:22,347 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:14:22,580 BL.SapBL.conexion [Linea 70]  DEBUG Se encontró el siguiente ERROR : -147 :: Get CurrentUserInfo failed
+2025-10-28 00:14:22,580 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:15:18,233 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:15:18,291 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:15:18,292 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:15:18,293 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:15:18,293 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:15:22,160 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:15:22,293 BL.ProcessBL.generarPendiente [Linea 29]  DEBUG -----------------------------
+2025-10-28 00:15:22,370 BL.ProcessBL.generarPendiente [Linea 31]  DEBUG -----------------------------
+2025-10-28 00:15:22,399 BL.ProcessBL.generarPendiente [Linea 33]  DEBUG -----------------------------
+2025-10-28 00:15:22,425 BL.ProcessBL.generarPendiente [Linea 35]  DEBUG -----------------------------
+2025-10-28 00:15:22,454 BL.ProcessBL.generarPendiente [Linea 37]  DEBUG -----------------------------
+2025-10-28 00:15:22,481 BL.ProcessBL.generarPendiente [Linea 39]  DEBUG -----------------------------
+2025-10-28 00:15:22,498 BL.ProcessBL.generarPendiente [Linea 41]  DEBUG -----------------------------
+2025-10-28 00:15:22,520 BL.ProcessBL.generarPendiente [Linea 43]  DEBUG -----------------------------
+2025-10-28 00:15:22,521 BL.ProcessBL.generarPendiente [Linea 46]  DEBUG Se está procesando la transaccion envío # 1
+2025-10-28 00:15:22,521 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 1 transacciones por procesar
+2025-10-28 00:15:22,522 Request_FE.Service1.stlapso_Elapsed [Linea 90]  DEBUG ---------------------------------------------------------------------------
+2025-10-28 00:15:22,522 Request_FE.Service1.stlapso_Elapsed [Linea 91]  DEBUG URL BASE : https://ose.efact.pe/api-efact-ose
+2025-10-28 00:15:22,522 Request_FE.Service1.stlapso_Elapsed [Linea 92]  DEBUG USUARIO : 20562860984
+2025-10-28 00:15:22,523 Request_FE.Service1.stlapso_Elapsed [Linea 93]  DEBUG CLAVE : b5bfde7bdc2d479d98fdf5f46b5f55af83ed417a65f7daa74391d54036f955a1
+2025-10-28 00:15:22,523 Request_FE.Service1.stlapso_Elapsed [Linea 94]  DEBUG TOKEN : /oauth/token
+2025-10-28 00:15:22,523 Request_FE.Service1.stlapso_Elapsed [Linea 95]  DEBUG ---------------------------------------------------------------------------
+2025-10-28 00:15:22,559 BL.RestServiceBL.getToken [Linea 22]  DEBUG -----------------------------------------
+2025-10-28 00:15:22,560 BL.RestServiceBL.getToken [Linea 26]  DEBUG -----------------------------------------
+2025-10-28 00:15:22,560 BL.RestServiceBL.getToken [Linea 28]  DEBUG -----------------------------------------
+2025-10-28 00:15:22,560 BL.RestServiceBL.getToken [Linea 31]  DEBUG -----------------------------------------
+2025-10-28 00:15:22,580 BL.RestServiceBL.getToken [Linea 33]  DEBUG -----------------------------------------
+2025-10-28 00:15:22,587 BL.RestServiceBL.getToken [Linea 35]  DEBUG -----------------------------------------
+2025-10-28 00:15:22,588 BL.RestServiceBL.getToken [Linea 37]  DEBUG -----------------------------------------
+2025-10-28 00:15:22,588 BL.RestServiceBL.getToken [Linea 39]  DEBUG -----------------------------------------
+2025-10-28 00:15:22,590 BL.RestServiceBL.getToken [Linea 41]  DEBUG -----------------------------------------
+2025-10-28 00:15:22,590 BL.RestServiceBL.getToken [Linea 43]  DEBUG -----------------------------------------
+2025-10-28 00:15:22,591 BL.RestServiceBL.getToken [Linea 45]  DEBUG -----------------------------------------
+2025-10-28 00:15:22,591 BL.RestServiceBL.getToken [Linea 47]  DEBUG -----------------------------------------
+2025-10-28 00:15:22,591 BL.RestServiceBL.getToken [Linea 49]  DEBUG -----------------------------------------
+2025-10-28 00:15:22,591 BL.RestServiceBL.getToken [Linea 51]  DEBUG -----------------------------------------
+2025-10-28 00:15:23,353 BL.RestServiceBL.getToken [Linea 65]  DEBUG -------------------------------------------------------
+2025-10-28 00:15:23,599 BL.RestServiceBL.getToken [Linea 71]  DEBUG -------------------------------------------------------
+2025-10-28 00:15:23,601 Request_FE.Service1.stlapso_Elapsed [Linea 103]  DEBUG Generando Json : 01-F003-2
+2025-10-28 00:15:23,602 Request_FE.Service1.stlapso_Elapsed [Linea 122]  DEBUG ---------------------------------------------------------------------------
+2025-10-28 00:15:23,602 Request_FE.Service1.stlapso_Elapsed [Linea 124]  DEBUG ---------------------------------------------------------------------------
+2025-10-28 00:15:23,603 Request_FE.Service1.stlapso_Elapsed [Linea 132]  DEBUG ---------------------------------------------------------------------------
+2025-10-28 00:15:23,848 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 68]  DEBUG -----------------------------
+2025-10-28 00:15:23,853 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 70]  DEBUG -----------------------------
+2025-10-28 00:15:23,853 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 72]  DEBUG -----------------------------
+2025-10-28 00:15:23,853 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 74]  DEBUG -----------------------------
+2025-10-28 00:15:23,853 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 76]  DEBUG -----------------------------
+2025-10-28 00:15:23,855 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 78]  DEBUG -----------------------------
+2025-10-28 00:15:23,856 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 80]  DEBUG -----------------------------
+2025-10-28 00:15:23,856 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 82]  DEBUG -----------------------------
+2025-10-28 00:15:23,856 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 84]  DEBUG -----------------------------
+2025-10-28 00:15:23,857 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 86]  DEBUG -----------------------------
+2025-10-28 00:15:23,860 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 89]  DEBUG -----------------------------
+2025-10-28 00:15:23,860 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 92]  DEBUG -----------------------------
+2025-10-28 00:15:23,977 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 94]  DEBUG -----------------------------
+2025-10-28 00:15:23,978 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 95]  DEBUG  Query :: EXEC "SP_CFR_FacturaElectronicaCabecera" '2','203'
+2025-10-28 00:15:23,978 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 96]  DEBUG -----------------------------
+2025-10-28 00:15:24,144 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 109]  DEBUG -----------------------------------
+2025-10-28 00:15:24,145 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 111]  DEBUG -----------------------------------
+2025-10-28 00:15:24,145 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 113]  DEBUG -----------------------------------
+2025-10-28 00:15:24,146 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 115]  DEBUG -----------------------------------
+2025-10-28 00:15:24,192 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 120]  DEBUG -----------------------------------
+2025-10-28 00:15:24,193 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 125]  DEBUG -----------------------------------
+2025-10-28 00:15:24,193 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 130]  DEBUG -----------------------------------
+2025-10-28 00:15:24,194 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 135]  DEBUG -----------------------------------
+2025-10-28 00:15:24,195 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 140]  DEBUG -----------------------------------
+2025-10-28 00:15:24,196 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 142]  DEBUG -----------------------------------
+2025-10-28 00:15:24,224 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 144]  DEBUG -----------------------------------
+2025-10-28 00:15:24,225 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 146]  DEBUG -----------------------------------
+2025-10-28 00:15:24,225 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 148]  DEBUG -----------------------------------
+2025-10-28 00:15:24,250 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 150]  DEBUG -----------------------------------
+2025-10-28 00:15:24,251 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 152]  DEBUG -----------------------------------
+2025-10-28 00:15:24,252 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 154]  DEBUG -----------------------------------
+2025-10-28 00:15:24,279 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 156]  DEBUG -----------------------------------
+2025-10-28 00:15:24,280 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 158]  DEBUG -----------------------------------
+2025-10-28 00:15:24,281 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 160]  DEBUG -----------------------------------
+2025-10-28 00:15:24,304 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 162]  DEBUG -----------------------------------
+2025-10-28 00:15:24,305 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 164]  DEBUG -----------------------------------
+2025-10-28 00:15:24,306 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 166]  DEBUG -----------------------------------
+2025-10-28 00:15:24,332 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 168]  DEBUG -----------------------------------
+2025-10-28 00:15:24,333 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 170]  DEBUG -----------------------------------
+2025-10-28 00:15:24,333 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 172]  DEBUG -----------------------------------
+2025-10-28 00:15:24,359 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 174]  DEBUG -----------------------------------
+2025-10-28 00:15:24,360 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 179]  DEBUG -----------------------------------
+2025-10-28 00:15:24,361 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 181]  DEBUG -----------------------------------
+2025-10-28 00:15:24,385 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 183]  DEBUG -----------------------------------
+2025-10-28 00:15:24,412 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 185]  DEBUG -----------------------------------
+2025-10-28 00:15:24,439 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 187]  DEBUG -----------------------------------
+2025-10-28 00:15:24,469 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 189]  DEBUG -----------------------------------
+2025-10-28 00:15:24,500 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 191]  DEBUG -----------------------------------
+2025-10-28 00:15:24,533 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 193]  DEBUG -----------------------------------
+2025-10-28 00:15:24,559 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 195]  DEBUG -----------------------------------
+2025-10-28 00:15:24,560 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 197]  DEBUG -----------------------------------
+2025-10-28 00:15:24,590 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 201]  DEBUG -----------------------------------
+2025-10-28 00:15:24,591 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 203]  DEBUG -----------------------------------
+2025-10-28 00:15:24,640 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 205]  DEBUG -----------------------------------
+2025-10-28 00:15:24,641 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 208]  DEBUG -----------------------------------
+2025-10-28 00:15:24,645 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 210]  DEBUG -----------------------------------
+2025-10-28 00:15:24,646 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 212]  DEBUG -----------------------------------
+2025-10-28 00:15:24,670 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 214]  DEBUG -----------------------------------
+2025-10-28 00:15:24,671 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 217]  DEBUG -----------------------------------
+2025-10-28 00:15:24,674 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 219]  DEBUG -----------------------------------
+2025-10-28 00:15:24,699 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 230]  DEBUG -----------------------------------
+2025-10-28 00:15:24,699 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 238]  DEBUG -----------------------------------
+2025-10-28 00:15:24,700 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 240]  DEBUG -----------------------------------
+2025-10-28 00:15:24,701 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 201]  DEBUG -----------------------------------
+2025-10-28 00:15:24,701 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 203]  DEBUG -----------------------------------
+2025-10-28 00:15:24,703 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 205]  DEBUG -----------------------------------
+2025-10-28 00:15:24,703 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 208]  DEBUG -----------------------------------
+2025-10-28 00:15:24,704 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 210]  DEBUG -----------------------------------
+2025-10-28 00:15:24,704 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 212]  DEBUG -----------------------------------
+2025-10-28 00:15:24,705 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 214]  DEBUG -----------------------------------
+2025-10-28 00:15:24,705 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 230]  DEBUG -----------------------------------
+2025-10-28 00:15:24,706 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 233]  DEBUG -----------------------------------
+2025-10-28 00:15:24,709 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 235]  DEBUG -----------------------------------
+2025-10-28 00:15:24,709 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 238]  DEBUG -----------------------------------
+2025-10-28 00:15:24,710 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 240]  DEBUG -----------------------------------
+2025-10-28 00:15:24,710 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 201]  DEBUG -----------------------------------
+2025-10-28 00:15:24,711 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 203]  DEBUG -----------------------------------
+2025-10-28 00:15:24,711 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 205]  DEBUG -----------------------------------
+2025-10-28 00:15:24,712 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 208]  DEBUG -----------------------------------
+2025-10-28 00:15:24,712 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 210]  DEBUG -----------------------------------
+2025-10-28 00:15:24,713 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 212]  DEBUG -----------------------------------
+2025-10-28 00:15:24,714 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 214]  DEBUG -----------------------------------
+2025-10-28 00:15:24,716 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 230]  DEBUG -----------------------------------
+2025-10-28 00:15:24,716 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 233]  DEBUG -----------------------------------
+2025-10-28 00:15:24,718 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 235]  DEBUG -----------------------------------
+2025-10-28 00:15:24,718 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 238]  DEBUG -----------------------------------
+2025-10-28 00:15:24,718 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 240]  DEBUG -----------------------------------
+2025-10-28 00:15:24,719 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 201]  DEBUG -----------------------------------
+2025-10-28 00:15:24,719 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 203]  DEBUG -----------------------------------
+2025-10-28 00:15:24,719 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 205]  DEBUG -----------------------------------
+2025-10-28 00:15:24,720 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 208]  DEBUG -----------------------------------
+2025-10-28 00:15:24,720 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 210]  DEBUG -----------------------------------
+2025-10-28 00:15:24,721 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 212]  DEBUG -----------------------------------
+2025-10-28 00:15:24,721 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 214]  DEBUG -----------------------------------
+2025-10-28 00:15:24,722 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 230]  DEBUG -----------------------------------
+2025-10-28 00:15:24,722 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 233]  DEBUG -----------------------------------
+2025-10-28 00:15:24,723 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 235]  DEBUG -----------------------------------
+2025-10-28 00:15:24,723 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 238]  DEBUG -----------------------------------
+2025-10-28 00:15:24,724 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 240]  DEBUG -----------------------------------
+2025-10-28 00:15:24,724 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 242]  DEBUG -----------------------------------
+2025-10-28 00:15:24,744 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 244]  DEBUG -----------------------------------
+2025-10-28 00:15:24,744 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 247]  DEBUG -----------------------------------
+2025-10-28 00:15:24,748 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 252]  DEBUG -----------------------------------
+2025-10-28 00:15:24,749 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 254]  DEBUG -----------------------------------
+2025-10-28 00:15:24,790 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 280]  DEBUG -----------------------------------
+2025-10-28 00:15:24,791 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 282]  DEBUG -----------------------------------
+2025-10-28 00:15:24,811 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 284]  DEBUG -----------------------------------
+2025-10-28 00:15:24,827 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 286]  DEBUG -----------------------------------
+2025-10-28 00:15:24,850 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 288]  DEBUG -----------------------------------
+2025-10-28 00:15:24,873 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 290]  DEBUG -----------------------------------
+2025-10-28 00:15:24,874 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 292]  DEBUG -----------------------------------
+2025-10-28 00:15:24,874 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 294]  DEBUG -----------------------------------
+2025-10-28 00:15:24,904 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 296]  DEBUG -----------------------------------
+2025-10-28 00:15:24,905 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 298]  DEBUG -----------------------------------
+2025-10-28 00:15:24,906 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 300]  DEBUG -----------------------------------
+2025-10-28 00:15:24,948 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 302]  DEBUG -----------------------------------
+2025-10-28 00:15:24,949 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 304]  DEBUG -----------------------------------
+2025-10-28 00:15:24,956 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 306]  DEBUG -----------------------------------
+2025-10-28 00:15:24,957 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 318]  DEBUG -----------------------------------
+2025-10-28 00:15:24,958 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 331]  DEBUG -----------------------------------
+2025-10-28 00:15:24,980 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 333]  DEBUG -----------------------------------
+2025-10-28 00:15:25,077 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 341]  DEBUG -----------------------------------
+2025-10-28 00:15:25,107 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 343]  DEBUG -----------------------------------
+2025-10-28 00:15:25,132 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 345]  DEBUG -----------------------------------
+2025-10-28 00:15:25,133 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 356]  DEBUG -----------------------------------
+2025-10-28 00:15:25,171 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 359]  DEBUG -----------------------------------
+2025-10-28 00:15:25,176 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 391]  DEBUG -----------------------------------
+2025-10-28 00:15:25,180 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 393]  DEBUG -----------------------------------
+2025-10-28 00:15:25,205 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 395]  DEBUG -----------------------------------
+2025-10-28 00:15:25,230 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 397]  DEBUG -----------------------------------
+2025-10-28 00:15:25,253 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 399]  DEBUG -----------------------------------
+2025-10-28 00:15:25,275 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 401]  DEBUG -----------------------------------
+2025-10-28 00:15:25,302 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 403]  DEBUG -----------------------------------
+2025-10-28 00:15:25,326 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 405]  DEBUG -----------------------------------
+2025-10-28 00:15:25,355 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 407]  DEBUG -----------------------------------
+2025-10-28 00:15:25,385 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 409]  DEBUG -----------------------------------
+2025-10-28 00:15:25,411 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 411]  DEBUG -----------------------------------
+2025-10-28 00:15:25,436 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 413]  DEBUG -----------------------------------
+2025-10-28 00:15:25,459 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 415]  DEBUG -----------------------------------
+2025-10-28 00:15:25,482 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 417]  DEBUG -----------------------------------
+2025-10-28 00:15:25,508 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 419]  DEBUG -----------------------------------
+2025-10-28 00:15:25,532 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 421]  DEBUG -----------------------------------
+2025-10-28 00:15:25,555 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 423]  DEBUG -----------------------------------
+2025-10-28 00:15:25,579 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 425]  DEBUG -----------------------------------
+2025-10-28 00:15:25,603 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 427]  DEBUG -----------------------------------
+2025-10-28 00:15:25,630 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 429]  DEBUG -----------------------------------
+2025-10-28 00:15:25,655 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 431]  DEBUG -----------------------------------
+2025-10-28 00:15:25,682 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 433]  DEBUG -----------------------------------
+2025-10-28 00:15:25,708 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 435]  DEBUG -----------------------------------
+2025-10-28 00:15:25,751 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 477]  DEBUG -----------------------------------
+2025-10-28 00:15:25,752 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 479]  DEBUG -----------------------------------
+2025-10-28 00:15:25,781 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 482]  DEBUG -----------------------------------
+2025-10-28 00:15:25,782 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 516]  DEBUG -----------------------------------
+2025-10-28 00:15:25,786 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 518]  DEBUG -----------------------------------
+2025-10-28 00:15:25,808 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 520]  DEBUG -----------------------------------
+2025-10-28 00:15:25,828 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 522]  DEBUG -----------------------------------
+2025-10-28 00:15:25,846 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 524]  DEBUG -----------------------------------
+2025-10-28 00:15:25,871 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 526]  DEBUG -----------------------------------
+2025-10-28 00:15:25,895 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 528]  DEBUG -----------------------------------
+2025-10-28 00:15:25,923 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 531]  DEBUG -----------------------------------
+2025-10-28 00:15:25,948 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 533]  DEBUG -----------------------------------
+2025-10-28 00:15:25,975 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 535]  DEBUG -----------------------------------
+2025-10-28 00:15:26,001 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 537]  DEBUG -----------------------------------
+2025-10-28 00:15:26,023 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 539]  DEBUG -----------------------------------
+2025-10-28 00:15:26,045 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 541]  DEBUG -----------------------------------
+2025-10-28 00:15:26,065 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 543]  DEBUG -----------------------------------
+2025-10-28 00:15:26,082 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 546]  DEBUG -----------------------------------
+2025-10-28 00:15:26,100 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 548]  DEBUG -----------------------------------
+2025-10-28 00:15:26,121 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 550]  DEBUG -----------------------------------
+2025-10-28 00:15:26,148 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 552]  DEBUG -----------------------------------
+2025-10-28 00:15:26,173 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 554]  DEBUG -----------------------------------
+2025-10-28 00:15:26,198 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 556]  DEBUG -----------------------------------
+2025-10-28 00:15:26,223 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 558]  DEBUG -----------------------------------
+2025-10-28 00:15:26,236 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 598]  DEBUG -----------------------------------
+2025-10-28 00:15:26,266 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 844]  DEBUG -----------------------------------
+2025-10-28 00:15:26,290 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 849]  DEBUG -----------------------------------
+2025-10-28 00:15:26,291 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 852]  DEBUG -----------------------------------
+2025-10-28 00:15:26,294 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 861]  DEBUG -----------------------------------
+2025-10-28 00:15:26,331 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 863]  DEBUG -----------------------------------
+2025-10-28 00:15:26,345 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 865]  DEBUG -----------------------------------
+2025-10-28 00:15:26,365 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 867]  DEBUG -----------------------------------
+2025-10-28 00:15:26,385 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 869]  DEBUG -----------------------------------
+2025-10-28 00:15:26,407 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 871]  DEBUG -----------------------------------
+2025-10-28 00:15:26,435 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 873]  DEBUG -----------------------------------
+2025-10-28 00:15:26,458 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 875]  DEBUG -----------------------------------
+2025-10-28 00:15:26,479 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 877]  DEBUG -----------------------------------
+2025-10-28 00:15:26,504 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 879]  DEBUG -----------------------------------
+2025-10-28 00:15:26,530 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 881]  DEBUG -----------------------------------
+2025-10-28 00:15:26,531 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 890]  DEBUG -----------------------------------
+2025-10-28 00:15:26,532 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 893]  DEBUG -----------------------------------
+2025-10-28 00:15:26,534 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 896]  DEBUG -----------------------------------
+2025-10-28 00:15:26,558 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 898]  DEBUG -----------------------------------
+2025-10-28 00:15:26,583 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 900]  DEBUG -----------------------------------
+2025-10-28 00:15:26,584 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 904]  DEBUG -----------------------------------
+2025-10-28 00:15:26,586 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 918]  DEBUG -----------------------------------
+2025-10-28 00:15:26,609 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 920]  DEBUG -----------------------------------
+2025-10-28 00:15:26,635 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 922]  DEBUG -----------------------------------
+2025-10-28 00:15:26,660 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 924]  DEBUG -----------------------------------
+2025-10-28 00:15:26,687 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 926]  DEBUG -----------------------------------
+2025-10-28 00:15:26,707 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 928]  DEBUG -----------------------------------
+2025-10-28 00:15:26,709 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 930]  DEBUG -----------------------------------
+2025-10-28 00:15:26,730 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 932]  DEBUG -----------------------------------
+2025-10-28 00:15:26,752 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 934]  DEBUG -----------------------------------
+2025-10-28 00:15:26,778 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 936]  DEBUG -----------------------------------
+2025-10-28 00:15:26,803 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 938]  DEBUG -----------------------------------
+2025-10-28 00:15:26,820 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 962]  DEBUG -----------------------------------
+2025-10-28 00:15:26,820 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 992]  DEBUG EXEC "SP_CFR_FacturaElectronicaCabecera_FACTURA_CUOTAS" '2','203'
+2025-10-28 00:15:26,856 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 996]  DEBUG -----------------------------------
+2025-10-28 00:15:26,858 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 998]  DEBUG -----------------------------------
+2025-10-28 00:15:26,859 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1000]  DEBUG -----------------------------------
+2025-10-28 00:15:26,860 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1002]  DEBUG -----------------------------------
+2025-10-28 00:15:26,861 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1004]  DEBUG -----------------------------------
+2025-10-28 00:15:26,909 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1006]  DEBUG -----------------------------------
+2025-10-28 00:15:26,935 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1008]  DEBUG -----------------------------------
+2025-10-28 00:15:26,961 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1010]  DEBUG -----------------------------------
+2025-10-28 00:15:26,989 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1012]  DEBUG -----------------------------------
+2025-10-28 00:15:27,052 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1033]  DEBUG -----------------------------------
+2025-10-28 00:15:27,057 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1057]  DEBUG -----------------------------------
+2025-10-28 00:15:27,112 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1059]  DEBUG -----------------------------------
+2025-10-28 00:15:27,141 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1061]  DEBUG -----------------------------------
+2025-10-28 00:15:27,166 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1063]  DEBUG -----------------------------------
+2025-10-28 00:15:27,189 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1065]  DEBUG -----------------------------------
+2025-10-28 00:15:27,225 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1067]  DEBUG -----------------------------------
+2025-10-28 00:15:27,253 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1069]  DEBUG -----------------------------------
+2025-10-28 00:15:27,280 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1071]  DEBUG -----------------------------------
+2025-10-28 00:15:27,305 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1073]  DEBUG -----------------------------------
+2025-10-28 00:15:27,331 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1075]  DEBUG -----------------------------------
+2025-10-28 00:15:27,357 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1077]  DEBUG -----------------------------------
+2025-10-28 00:15:27,382 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1079]  DEBUG -----------------------------------
+2025-10-28 00:15:27,406 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1081]  DEBUG -----------------------------------
+2025-10-28 00:15:27,433 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1083]  DEBUG -----------------------------------
+2025-10-28 00:15:27,456 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1085]  DEBUG -----------------------------------
+2025-10-28 00:15:27,483 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1087]  DEBUG -----------------------------------
+2025-10-28 00:15:27,511 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1089]  DEBUG -----------------------------------
+2025-10-28 00:15:27,531 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1091]  DEBUG -----------------------------------
+2025-10-28 00:15:27,550 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1093]  DEBUG -----------------------------------
+2025-10-28 00:15:27,551 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1094]  DEBUG -----------------------------------
+2025-10-28 00:15:27,552 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1116]  DEBUG -----------------------------
+2025-10-28 00:15:27,584 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1169]  DEBUG -----------------------------------
+2025-10-28 00:15:27,609 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1171]  DEBUG -----------------------------------
+2025-10-28 00:15:27,630 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1173]  DEBUG -----------------------------------
+2025-10-28 00:15:27,653 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1175]  DEBUG -----------------------------------
+2025-10-28 00:15:27,676 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1177]  DEBUG -----------------------------------
+2025-10-28 00:15:27,702 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1179]  DEBUG -----------------------------------
+2025-10-28 00:15:27,726 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1181]  DEBUG -----------------------------------
+2025-10-28 00:15:27,749 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1183]  DEBUG -----------------------------------
+2025-10-28 00:15:27,770 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1185]  DEBUG -----------------------------------
+2025-10-28 00:15:27,795 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1187]  DEBUG -----------------------------------
+2025-10-28 00:15:27,819 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1189]  DEBUG -----------------------------------
+2025-10-28 00:15:27,847 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1191]  DEBUG -----------------------------------
+2025-10-28 00:15:27,870 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1193]  DEBUG -----------------------------------
+2025-10-28 00:15:27,901 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1195]  DEBUG -----------------------------------
+2025-10-28 00:15:27,924 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1197]  DEBUG -----------------------------------
+2025-10-28 00:15:27,948 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1199]  DEBUG -----------------------------------
+2025-10-28 00:15:27,972 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1201]  DEBUG -----------------------------------
+2025-10-28 00:15:27,998 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1203]  DEBUG -----------------------------------
+2025-10-28 00:15:27,999 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1214]  DEBUG -----------------------------------
+2025-10-28 00:15:28,001 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1236]  DEBUG -----------------------------------
+2025-10-28 00:15:28,002 BL.InvoiceGenerateJsonBL.GenerateInvoiceJsonV3 [Linea 1238]  DEBUG -----------------------------------
+2025-10-28 00:15:28,003 Request_FE.Service1.stlapso_Elapsed [Linea 134]  DEBUG ---------------------------------------------------------------------------
+2025-10-28 00:15:28,013 BL.CleanJsonBL.cleanInvoice [Linea 39]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,015 BL.CleanJsonBL.cleanInvoice [Linea 46]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,015 BL.CleanJsonBL.cleanInvoice [Linea 48]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,015 BL.CleanJsonBL.cleanInvoice [Linea 51]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,016 BL.CleanJsonBL.cleanInvoice [Linea 58]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,016 BL.CleanJsonBL.cleanInvoice [Linea 60]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,016 BL.CleanJsonBL.cleanInvoice [Linea 62]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,016 BL.CleanJsonBL.cleanInvoice [Linea 69]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,017 BL.CleanJsonBL.cleanInvoice [Linea 71]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,017 BL.CleanJsonBL.cleanInvoice [Linea 73]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,017 BL.CleanJsonBL.cleanInvoice [Linea 76]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,017 BL.CleanJsonBL.cleanInvoice [Linea 79]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,017 BL.CleanJsonBL.cleanInvoice [Linea 82]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,018 BL.CleanJsonBL.cleanInvoice [Linea 84]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,018 BL.CleanJsonBL.cleanInvoice [Linea 92]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,018 BL.CleanJsonBL.cleanInvoice [Linea 99]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,018 BL.CleanJsonBL.cleanInvoice [Linea 101]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,019 BL.CleanJsonBL.cleanInvoice [Linea 238]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,019 BL.CleanJsonBL.cleanInvoice [Linea 241]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,019 BL.CleanJsonBL.cleanInvoice [Linea 277]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,019 BL.CleanJsonBL.cleanInvoice [Linea 278]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,020 Request_FE.Service1.stlapso_Elapsed [Linea 136]  DEBUG --------------------------------------------------------------
+2025-10-28 00:15:28,346 Request_FE.Service1.stlapso_Elapsed [Linea 138]  DEBUG ---------------------------------------------------------------------------
+2025-10-28 00:15:28,670 BL.SapBL.actualizarEstadoSAP_V2 [Linea 484]  DEBUG Se procedió a ejecutar el siguiente SP :: UPDATE ODPI SET U_CFR_FE_ESTADO='1',U_CFR_FE_MENSAJE='{"code":"0","description":"f5db260b-4a01-40b4-8fcc-d813d2fd775e"}',U_CFR_FE_IDEN='f5db260b-4a01-40b4-8fcc-d813d2fd775e' WHERE "DocEntry"='2'
+2025-10-28 00:15:28,732 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:15:47,867 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:15:47,868 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:15:47,868 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:15:47,868 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:15:47,868 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:15:49,274 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:15:49,317 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:15:49,339 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:16:17,864 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:16:17,865 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:16:17,865 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:16:17,865 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:16:17,866 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:16:18,533 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:16:18,578 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:16:18,596 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:16:47,871 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:16:47,872 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:16:47,872 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:16:47,873 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:16:47,873 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:16:48,630 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:16:48,684 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:16:48,709 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:17:17,879 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:17:17,880 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:17:17,880 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:17:17,880 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:17:17,880 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:17:18,577 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:17:18,635 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:17:18,663 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:17:47,883 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:17:47,884 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:17:47,885 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:17:47,885 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:17:47,885 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:17:48,548 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:17:48,591 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:17:48,609 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:18:17,890 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:18:17,891 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:18:17,891 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:18:17,892 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:18:17,892 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:18:18,545 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:18:18,600 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:18:18,624 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:18:47,898 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:18:47,898 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:18:47,899 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:18:47,899 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:18:47,899 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:18:48,523 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:18:48,568 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:18:48,591 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:19:17,905 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:19:17,906 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:19:17,906 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:19:17,906 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:19:17,907 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:19:18,565 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:19:18,607 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:19:18,628 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:19:47,911 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:19:47,912 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:19:47,912 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:19:47,912 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:19:47,913 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:19:48,569 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:19:48,612 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:19:48,628 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:20:17,918 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:20:17,919 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:20:17,920 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:20:17,920 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:20:17,920 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:20:18,540 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:20:18,587 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:20:18,608 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:20:47,924 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:20:47,925 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:20:47,925 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:20:47,925 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:20:47,926 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:20:48,544 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:20:48,591 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:20:48,607 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:21:17,932 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:21:17,933 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:21:17,933 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:21:17,933 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:21:17,934 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:21:18,611 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:21:18,653 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:21:18,677 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:21:47,936 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:21:47,936 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:21:47,937 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:21:47,937 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:21:47,937 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:21:48,583 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:21:48,625 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:21:48,644 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:22:17,940 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:22:17,941 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:22:17,941 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:22:17,941 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:22:17,941 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:22:18,614 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:22:18,663 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:22:18,678 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:22:47,950 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:22:47,951 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:22:47,952 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:22:47,952 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:22:47,952 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:22:48,593 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:22:48,628 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:22:48,645 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:23:17,955 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:23:17,955 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:23:17,956 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:23:17,956 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:23:17,956 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:23:18,597 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:23:18,635 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:23:18,661 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:23:47,960 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:23:47,960 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:23:47,961 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:23:47,962 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:23:47,962 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:23:48,571 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:23:48,608 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:23:48,624 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:24:17,967 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:24:17,968 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:24:17,969 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:24:17,969 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:24:17,969 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:24:18,612 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:24:18,655 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:24:18,671 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:24:47,975 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:24:47,975 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:24:47,976 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:24:47,976 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:24:47,976 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:24:48,593 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:24:48,632 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:24:48,659 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:25:17,981 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:25:17,982 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:25:17,983 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:25:17,983 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:25:17,983 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:25:18,660 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:25:18,701 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:25:18,717 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:25:47,997 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:25:47,998 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:25:47,998 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:25:47,999 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:25:47,999 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:25:48,670 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:25:48,715 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:25:48,730 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:26:18,005 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:26:18,005 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:26:18,006 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:26:18,006 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:26:18,006 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:26:18,644 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:26:18,680 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:26:18,699 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:26:48,011 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:26:48,012 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:26:48,012 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:26:48,012 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:26:48,012 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:26:48,630 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:26:48,665 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:26:48,682 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:27:18,040 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:27:18,041 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:27:18,041 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:27:18,041 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:27:18,041 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:27:25,329 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:27:25,376 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:27:25,400 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:27:48,025 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:27:48,026 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:27:48,026 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:27:48,027 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:27:48,027 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:27:48,697 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:27:48,736 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:27:48,759 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------
+2025-10-28 00:28:18,033 BL.configuracionBL.DeserializeXMLFileToObject [Linea 76]  DEBUG Se cargó correctamente cargado de la ruta : C:\Users\Administrador\source\repos\Request_FE\Request_FE\Request_FE\bin\Debug\Config.xml
+2025-10-28 00:28:18,034 BL.configuracionBL.cargarConfiguracion [Linea 36]  INFO  Se cargó correctamente la configuración. 
+2025-10-28 00:28:18,035 Request_FE.Service1.stlapso_Elapsed [Linea 70]  DEBUG ------------------------------------------------
+2025-10-28 00:28:18,035 Request_FE.Service1.stlapso_Elapsed [Linea 73]  DEBUG ------------------------------------------------
+2025-10-28 00:28:18,036 Request_FE.Service1.stlapso_Elapsed [Linea 76]  DEBUG ------------------------------------------------
+2025-10-28 00:28:18,674 BL.SapBL.conexion [Linea 73]  DEBUG Se procedió a conectar a : OCULAB LATINOAMERICA SAC
+2025-10-28 00:28:18,711 Request_FE.Service1.stlapso_Elapsed [Linea 86]  DEBUG Se encontró un total de 0 transacciones por procesar
+2025-10-28 00:28:18,728 Request_FE.Service1.stlapso_Elapsed [Linea 209]  DEBUG ------------------------------------------------

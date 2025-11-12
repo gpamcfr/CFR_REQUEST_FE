@@ -1,0 +1,6 @@
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\DAL\bin\Release\DAL.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\DAL\bin\Release\DAL.pdb
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\DAL\obj\Release\DAL.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\DAL\obj\Release\DAL.pdb

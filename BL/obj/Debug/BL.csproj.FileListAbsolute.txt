@@ -1,0 +1,120 @@
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\BL.dll.config
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\BL.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\BL.pdb
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\DAL.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\log4net.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\RestSharp.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\System.Buffers.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\System.Memory.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\System.Numerics.Vectors.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\System.Text.Encodings.Web.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\System.Text.Json.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\System.ValueTuple.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\UBL.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\DAL.pdb
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\UBL.pdb
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\log4net.pdb
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\log4net.xml
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\RestSharp.xml
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\System.Buffers.xml
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\System.Memory.xml
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\System.Numerics.Vectors.xml
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\System.Text.Encodings.Web.xml
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\System.Text.Json.xml
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\bin\Debug\System.ValueTuple.xml
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\obj\Debug\BL.csproj.ResolveComReference.cache
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\obj\Debug\BL.csproj.CopyComplete
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\obj\Debug\BL.dll
+D:\Proyectos CFR\OCULAB FE\Request_FE\BL\obj\Debug\BL.pdb
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\BL.dll.config
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\BL.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\BL.pdb
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\DAL.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\log4net.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\RestSharp.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\System.Buffers.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\System.Memory.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\System.Text.Json.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\UBL.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\DAL.pdb
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\UBL.pdb
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\log4net.pdb
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\log4net.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\RestSharp.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\System.Buffers.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\System.Memory.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\System.Text.Json.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\bin\Debug\System.ValueTuple.xml
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\obj\Debug\BL.csproj.ResolveComReference.cache
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\obj\Debug\BL.dll
+C:\Users\Administrador\source\repos\Request_FE\Request_FE\BL\obj\Debug\BL.pdb
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\BL.dll.config
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\BL.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\BL.pdb
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\DAL.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\log4net.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\RestSharp.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\System.Buffers.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\System.Memory.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\System.Numerics.Vectors.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\System.Text.Encodings.Web.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\System.Text.Json.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\System.ValueTuple.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\UBL.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\DAL.pdb
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\UBL.pdb
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\log4net.pdb
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\log4net.xml
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\RestSharp.xml
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\System.Buffers.xml
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\System.Memory.xml
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\System.Numerics.Vectors.xml
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\System.Text.Encodings.Web.xml
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\System.Text.Json.xml
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\bin\Debug\System.ValueTuple.xml
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\obj\Debug\BL.csproj.ResolveComReference.cache
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\obj\Debug\BL.csproj.CopyComplete
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\obj\Debug\BL.dll
+D:\Proyectos CFR\OCULAB FE\Codigo Final\Request_FE\BL\obj\Debug\BL.pdb
